@@ -1,11 +1,11 @@
-#Face Recognition using Python with OpenCV
+# Face Recognition using Python with OpenCV
 
-##Requirements:
+## Requirements:
 * Python 3.6 or more
 * OpenCV
 * Numpy
 
-##Usage
+## Usage
 * Install the required python packages
 ```
 pip install requirements.txt
