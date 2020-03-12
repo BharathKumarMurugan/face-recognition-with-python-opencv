@@ -3,6 +3,7 @@
 ## Requirements:
 * Python 3.6 or more
 * OpenCV
+* cascade.xml
 * Numpy
 
 ## Usage
