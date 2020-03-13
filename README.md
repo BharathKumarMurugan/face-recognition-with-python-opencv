@@ -11,7 +11,8 @@
 ```
 pip install requirements.txt
 ```
-* Execute the python script
+* Download an image of any format(.jpg, .jpeg, .png) and provide the name of the image file in the script
+* Execute the face recognition script
 ```
 python face-recognition-image.py
 ```
