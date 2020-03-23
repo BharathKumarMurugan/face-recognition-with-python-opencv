@@ -1,7 +1,7 @@
 # Face Recognition using Python with OpenCV
 
 ## Requirements:
-* Python 3.6 or more
+* Python 3.6
 * OpenCV
 * cascade.xml
 * Numpy
